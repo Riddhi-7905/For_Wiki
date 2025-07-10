@@ -1,5 +1,4 @@
 # For_Wiki
-# For_Wiki
 
 This repository documents my contributions to Wikimedia and reflects my growing interest in the technical and open knowledge ecosystem.
 
@@ -77,6 +76,7 @@ According to my Meta-Wiki Babel box:
 - English (en-4): Advanced
 - Awadhi (awa-2): Intermediate
 - Sanskrit (sa-2): Intermediate
+- Russian (ru-3); Intermediate
 
 ---
 
